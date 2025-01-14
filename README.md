@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to be better
 - 💞️ I’m looking to collaborate on 😎
 - 📫 How to reach me on zohaibkhann745@gmail.com
-- 😄 Pronouns: 🤐
 - ⚡ Fun fact: 🙈
 
 <!---
