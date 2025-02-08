@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zohaib Khan 
 - 👀 I’m interested in Many Things
-- 🌱 I’m currently learning how to be better
 - 💞️ I’m looking to collaborate on 😎
-- 📫 How to reach me on zohaibkhann745@gmail.com
+- 📫 You can reach me on zohaibkhann745@gmail.com
 - ⚡ Fun fact: 🙈
 
 <!---
