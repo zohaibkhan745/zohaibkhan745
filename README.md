@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zohaib Khan 
-- 👀 I’m interested in Many Things
+- 👀 I’m interested Coding, Chess and Reading
 - 💞️ I’m looking to collaborate on 😎
 - 📫 You can reach me on zohaibkhann745@gmail.com
 - ⚡ Fun fact: 🙈
