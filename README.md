@@ -1,4 +1,4 @@
-# Hi, I'm Zohaib Khan 👋
+# Hi, I'm Zohaib Malik 👋
 
 I'm a CS student interested in building **full‑stack web apps** and experimenting with **AI/LLM-powered features**. I enjoy turning ideas into clean, usable products and writing clear documentation (SRS/specs).
 
