@@ -1,30 +1,20 @@
-Hi! I'm Zohaib Malik, a Software Engineering undergraduate at GIKI, passionate about AI, software development, problem-solving, and building real-world impactful systems.
+# Hi, I'm Zohaib Khan 👋
 
-I enjoy working with C/C++, Python, JavaScript, and exploring AI/ML, automation, and smart systems.
-I’ve worked on different projects which strengthened my logic-building, teamwork, and system design skills.
+I'm a CS student interested in building **full‑stack web apps** and experimenting with **AI/LLM-powered features**. I enjoy turning ideas into clean, usable products and writing clear documentation (SRS/specs).
 
-I’m constantly learning — especially in Software Engineering, Requirement Engineering, Agile Methods, and System Modeling — and I love taking on challenges that help me grow.
+## What I work with
+- **Frontend:** React, HTML, CSS
+- **Backend / Logic:** JavaScript, Python
+- **AI/LLMs:** LLM app prototyping, prompt workflows, integrations
+- **Other:** C++, documentation (SRS)
 
-🔥 Interests
+## Projects
+- **BookClub** — a web app for sharing Books.
+- **AFAT (AI Fit and Try)** — an AI/LLM-oriented project for trying outfits.
+- **Hobby** — Managment app.
 
-Software Engineering & System Design
+## What I’m looking for
+I'm currently seeking **remote internships / junior roles** across **Full‑Stack** and **AI/LLM**—open to broad opportunities.
 
-Artificial Intelligence & Data Science
-
-Logic Design & Embedded Systems
-
-Chess, Coding, Reading, and Learning New Things
-
-🤝 Collaboration
-
-I love collaborating on real-world problems, impactful student projects, or open-source work.
-
-📫 Reach Me
-
-📧 Email: zohaibkhann745@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/zohaib-malik-204846256/
-
-⚡ Fun Fact
-
-I never stop learning — even when I say “I’m tired,” I keep going 😄
+## Contact
+- GitHub: @zohaibkhan745
