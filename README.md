@@ -21,4 +21,4 @@ I am actively looking for **remote internships and junior engineering roles** ac
 
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/zohaib-malik1](https://linkedin.com/in/zohaib-malik1)
-* **Email:** u2023787@giki.edu.pk
+* **Email:** zohaibkhann745@gmail.com
