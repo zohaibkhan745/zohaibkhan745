@@ -1,23 +1,24 @@
 # Hi, I'm Zohaib Malik 👋
 
-### Software Engineer | Full-Stack (React/FastAPI) | AI & Machine Learning
+### Software Engineer | AI/ML & LLM Research | Full-Stack (React/FastAPI)
 
-I am a Software Engineering undergraduate specializing in architecting scalable full-stack platforms and integrating complex AI models. I am passionate about bridging the gap between clean, accessible frontend interfaces and rigorous backend logic, with a strong focus on producing well-documented, reliable code. 
+I'm a final-year Software Engineering student researching low-resource NLP and LLM fine-tuning, with production experience building and deploying full-stack AI products end-to-end — from model training to shipped user-facing platforms.
 
 ## 🛠️ What I Work With
-* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Figma (UI/UX)
-* **Backend & Databases:** Python, FastAPI, Node.js, PostgreSQL, SQLite
-* **AI & Machine Learning:** PyTorch, OpenCV, Scikit-Learn, Pandas, Transformers
-* **Tools & Architecture:** Git, Docker, Linux, System Design, Technical Documentation (SRS)
+* **AI & ML:** PyTorch, QLoRA/LoRA, Unsloth, HuggingFace Transformers, RAG, LangGraph, Scikit-Learn
+* **Backend:** Python, FastAPI, NestJS, PostgreSQL, Prisma, Docker
+* **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+)
+* **Tools:** Git, Kubernetes, Linux, CI/CD
 
 ## 🚀 Featured Projects
-* **[The BookClub](https://github.com/zohaibkhan745/BookClub):** Architected and deployed a campus-wide P2P lending platform using React (Vite) and Python (FastAPI).
-* **Large Language Model (From Scratch):** Implemented a GPT-style LLM following the Sebastian Raschka curriculum, building core components like Multi-Head Attention and Layer Normalization to deeply understand transformer architecture.
-* **[AI Fit & Try (Virtual Try-On)](https://github.com/zohaibkhan745/AFAT-AI-FIT-TRY-):** Engineered a computer vision pipeline utilizing PyTorch and OpenCV for automated body segmentation and virtual garment transfer.
-* **Food Ordering Interface (HCI):** Designed a high-fidelity, accessible UI/UX prototype in Figma, applying core Human-Computer Interaction principles to optimize the user journey.
+* **[Orion — Agentic RAG Platform](https://github.com/zohaibkhan745/Orion):** Built an agentic RAG system with hybrid retrieval (vector + BM25), a knowledge-graph retriever, and cross-encoder reranking, orchestrated by a LangGraph agent with multi-provider routing and MCP tool-calling — backed by a reproducible evaluation harness and guardrail pipeline.
+* **Qehwa — Low-Resource Pashto LLM** *(GIKI AI Research Lab)*: Fine-tuned Qwen2.5-7B on ~75K Afghan-dialect instruction pairs using QLoRA/LoRA/Unsloth, with dialect-mixing mitigation strategies. Basis for an IEEE conference paper currently in preparation.
+* **[The BookClub](https://github.com/zohaibkhan745/BookClub):** Architected and deployed a full-stack P2P textbook exchange platform serving 500+ students with 200+ weekly transactions and zero downtime.
+* **[AQI Predictor & Dashboard](https://github.com/zohaibkhan745/aqi-forecast-pipeline):** Built a serverless ML pipeline forecasting Air Quality Index up to 72 hours ahead, with a FastAPI + Streamlit dashboard and SHAP-based explainability.
+* **[AI Fit & Try](https://github.com/zohaibkhan745/AFAT-AI-FIT-TRY-):** Computer vision pipeline for virtual garment try-on using PyTorch and OpenCV for body segmentation and mask-based post-processing.
 
 ## 🌱 Currently Seeking
-I am actively looking for **remote internships and junior engineering roles** across Full-Stack Development and AI/ML. I am also highly interested in international research opportunities where I can apply my skills in distributed systems and applied AI.
+I'm actively looking for **AI/ML research internships** (including Mitacs Globalink) and **software engineering roles** in Full-Stack Development and Applied AI, with a particular interest in adaptive learning systems, low-resource NLP, and trustworthy/evaluable LLM systems.
 
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/zohaib-malik1](https://linkedin.com/in/zohaib-malik1)
